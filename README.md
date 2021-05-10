@@ -8,7 +8,7 @@ This portfolio is a small project using HTML / CSS and Boostrap. I will be using
 
 ## Technologies Used
 
-# HTML
+#HTML
 #CSS
 
 ## Installation 
